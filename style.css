@@ -5,6 +5,10 @@ html {
   background-color: black;
 }
 
+* {
+  overflow: hidden;
+}
+
 .wrapper {
   position: relative;
   display: grid;
